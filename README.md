@@ -1,6 +1,5 @@
 # java-volandroid-server
 
-
 Aplicação responsável por receber os comandos por bluetooth e transmití-los para o computador como se fossem teclas sendo pressionadas.
 
 
