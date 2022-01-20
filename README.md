@@ -16,4 +16,8 @@ Exemplo de compilação por linha de comando a partir da pasta **/src** do proje
  
 
 	java -cp "bluecove-2.1.1.jar;libs/*" servidor.TelaInicial
+	
 
+## Downloads
+- [App android - Volandroid](https://github.com/maletta/java-volandroid-client-android) - aplicativo android que funciona como joystick bluetooth
+- [Banner - Volandroid](https://github.com/maletta/java-volandroid-banner) - banner de apresentação do projeto Volandroid
